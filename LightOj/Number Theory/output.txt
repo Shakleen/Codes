@@ -1,0 +1,6 @@
+Case 1: 23 Xukha
+Case 2: 29 Xukha
+Case 3: 1109 Xukha
+Case 4: 413 Xukha
+Case 5: 1000003 Xukha
+Case 6: 2878795 Xukha
